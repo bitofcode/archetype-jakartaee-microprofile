@@ -5,23 +5,11 @@
 
   <fileSets>
 
-    <!-- Maven Wrapper - do not filter -->
-    <fileSet filtered="false" encoding="UTF-8">
-      <directory>.mvn/wrapper</directory>
-      <includes>
-        <include>**/*.jar</include>
-        <include>**/*.java</include>
-        <include>**/*.properties</include>
-      </includes>
-    </fileSet>
-
-    <fileSet filtered="false" encoding="UTF-8">
+    <fileSet encoding="UTF-8">
       <includes>
         <include>**/*.gitignore</include>
-        <include>mvnw.cmd</include>
         <include>.editorconfig</include>
         <include>.gitignore</include>
-        <include>mvnw</include>
       </includes>
     </fileSet>
 
