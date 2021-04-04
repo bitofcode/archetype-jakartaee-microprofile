@@ -4,6 +4,6 @@ Usage:
 
 ```shell
 
-mvn archetype:generate -DarchetypeGroupId=com.bitofcode.archetype -DarchetypeArtifactId=jakartaee-microprofile -DarchetypeVersion=0.0.1
+mvn archetype:generate -DarchetypeGroupId=com.bitofcode.archetype -DarchetypeArtifactId=jakartaee-microprofile -DarchetypeVersion=0.0.2
 
 ```
