@@ -5,11 +5,11 @@
 
   <groupId>com.bitofcode.archetype</groupId>
   <artifactId>jakartaee-microprofile</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
   <packaging>maven-archetype</packaging>
 
   <name>${project.groupId}:${project.artifactId}</name>
-  <description>Jakarta EE with Eclipse MicroProfile project.</description>
+  <description>Jakarta EE 8 with Eclipse MicroProfile 3.X project.</description>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

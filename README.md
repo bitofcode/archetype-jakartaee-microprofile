@@ -1,9 +1,9 @@
-# Jakarta EE and Eclipse Microprofile Maven Archetype
+# Jakarta EE 8 and Eclipse Microprofile 3.X Maven Archetype
 
 Usage:
 
 ```shell
 
-mvn archetype:generate -DarchetypeGroupId=com.bitofcode.archetype -DarchetypeArtifactId=jakartaee-microprofile -DarchetypeVersion=0.0.2
+mvn archetype:generate -DarchetypeGroupId=com.bitofcode.archetype -DarchetypeArtifactId=jakartaee-microprofile -DarchetypeVersion=0.0.3
 
 ```

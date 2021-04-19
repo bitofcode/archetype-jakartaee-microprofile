@@ -6,10 +6,17 @@
   <fileSets>
 
     <fileSet encoding="UTF-8">
+      <directory></directory>
       <includes>
-        <include>**/*.gitignore</include>
         <include>.editorconfig</include>
-        <include>.gitignore</include>
+        <include>example.gitignore</include>
+      </includes>
+    </fileSet>
+
+    <fileSet filtered="true" packaged="false" encoding="UTF-8">
+      <directory></directory>
+      <includes>
+        <include>README.md</include>
       </includes>
     </fileSet>
 
