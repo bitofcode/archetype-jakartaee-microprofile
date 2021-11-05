@@ -5,8 +5,8 @@ package ${package}.ping.control;
 
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 
-import javax.enterprise.inject.Default;
-import javax.inject.Inject;
+import jakarta.enterprise.inject.Default;
+import jakarta.inject.Inject;
 import java.time.Instant;
 import java.util.Map;
 
