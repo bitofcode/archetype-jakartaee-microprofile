@@ -5,10 +5,10 @@
 
   <groupId>com.bitofcode.archetype</groupId>
   <artifactId>jakartaee-microprofile</artifactId>
-  <version>0.0.5</version>
+  <version>0.0.6</version>
   <packaging>maven-archetype</packaging>
 
-  <name>${project.groupId}:${project.artifactId}</name>
+  <name>${project.packaging}:${project.artifactId}</name>
   <description>Jakarta EE 8 with Eclipse MicroProfile 4.1 project.</description>
 
   <properties>
@@ -20,8 +20,8 @@
   <url>https://github.com/bitofcode/archetype-jakartaee-microprofile</url>
 
   <organization>
-    <name>TechEule</name>
-    <url>http://TechEule.com</url>
+    <name>BitOfCode</name>
+    <url>http://BitOfCode.com</url>
   </organization>
 
   <inceptionYear>2021</inceptionYear>
@@ -36,17 +36,17 @@
   <developers>
     <developer>
       <name>Wassim Akachi</name>
-      <organization>TechEule.com</organization>
-      <organizationUrl>http://TechEule.com</organizationUrl>
+      <organization>BitOfCode.com</organization>
+      <organizationUrl>http://BitOfCode.com</organizationUrl>
     </developer>
   </developers>
 
   <contributors>
     <contributor>
       <name>Wassim Akachi</name>
-      <email>wassim@TechEule.com</email>
+      <email>wassim@BitOfCode.com</email>
       <timezone>Central European Standard Time (GMT+1)</timezone>
-      <url>http://TechEule.com</url>
+      <url>http://BitOfCode.com</url>
     </contributor>
   </contributors>
 
