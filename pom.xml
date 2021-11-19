@@ -5,10 +5,10 @@
 
   <groupId>com.bitofcode.archetype</groupId>
   <artifactId>jakartaee-microprofile</artifactId>
-  <version>0.0.6</version>
+  <version>0.0.7</version>
   <packaging>maven-archetype</packaging>
 
-  <name>${project.packaging}:${project.artifactId}</name>
+  <name>maven-archetype:jakartaee-microprofile</name>
   <description>Jakarta EE 8 with Eclipse MicroProfile 4.1 project.</description>
 
   <properties>
